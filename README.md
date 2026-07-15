@@ -52,4 +52,4 @@ Real estate businesses receive numerous customer inquiries every day, making it 
 * Supported faster and data-driven business decision-making.
 
 ## Dashboard Preview
-
+![Real Estate AI Voice Agent Analytics Dashboard](real-estate-dashboard.jpeg)
