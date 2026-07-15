@@ -53,3 +53,8 @@ Real estate businesses receive numerous customer inquiries every day, making it 
 
 ## Dashboard Preview
 ![Real Estate AI Voice Agent Analytics Dashboard](real-estate-dashboard.jpeg)
+
+## Project Files
+
+- 📊 Dashboard Preview: `real-estate-dashboard.jpeg`
+- 📁 Power BI File: `retell dashboard.pbix`
